@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [https://card-confirm.vercel.app/](https://card-confirm.vercel.app/)
 
 ### Built with
 
