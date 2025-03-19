@@ -25,6 +25,10 @@ export default defineConfig({
         find: '@pages',
         replacement: path.resolve(__dirname,'src/pages')
       },
+      {
+        find: '@context',
+        replacement: path.resolve(__dirname,'src/context')
+      }
     ]
   }
 })
